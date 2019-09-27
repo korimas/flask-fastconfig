@@ -5,7 +5,7 @@ debug = False
 
 [mysql]
 connection = sqlite:///test.db
-#connection = mysql+pymysql://root:62031929@localhost:13306/gevoton?charset=utf8
+#connection = mysql+pymysql://root:password@localhost:13306/project?charset=utf8
 track_modifications = True
 
 [secure]
